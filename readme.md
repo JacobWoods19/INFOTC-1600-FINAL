@@ -1,4 +1,11 @@
 # Setting Up A Personal Storage Server
+
+
+## Author
+Jacob Woods
+
+## Target Audience
+Small businesses and individuals that need a private cloud storage server.
 ## About
 For my project, I've decided to learn, setup, and share about my experience setting up a personal storage server for myself. I don't really feel like pay $10 a month for something I could easily do myself. Hope you enjoy! :) 
 
